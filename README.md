@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anant Kumar Pandey 👾</h1>
-<p align="center"><em>VAPT Engineer | Red Team Learner | Cybersecurity Enthusiast</em></p>
+<p align="center"><em>VAPT Engineer | Red Team Learner | Cybersecurity Enthusiast | A Student </em></p>
 
 ---
 
