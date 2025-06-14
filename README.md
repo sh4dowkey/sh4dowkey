@@ -9,7 +9,7 @@
 - 🛠️ Practicing Offensive Security and Red Teaming techniques  
 - 🧪 Building hands-on labs and writing custom tools  
 - 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
-- 📝 Writing technical content at [m4lici0u5.com](http://m4lici0u5.com)
+<!-- - 📝 Writing technical content at [m4lici0u5.com](http://m4lici0u5.com) -->
 
 ---
 
