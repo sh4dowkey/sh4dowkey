@@ -1,18 +1,34 @@
-# Hi there 👋, I'm An0nAN4N7 🐱‍💻
-
-- 🛡️ Red Team Enthusiast and Offensive Security Learner  
-- ⚙️ Building Offensive Tools and Labs  
-- 🎓 Working on: eJPT, CRTO, OSCP  
-- 🚀 Upcoming Goals: OSWE, OSED, CARTP  
-- 📝 Blog: [m4lici0u5.com](http://m4lici0u5.com)
-
-![Darlene](https://i.imgur.com/4M34hi2.gif)
+<h1 align="center">Hi there 👋, I'm Anant Kumar Pandey 👾</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Red+Teamer+%7C+Offensive+Security+Learner;Malware+Developer+in+Training;Building+Offensive+Labs+%26+Tools;Welcome+to+my+dark+repo+%F0%9F%94%AF" />
+</p>
 
 ---
 
-### 🔗 Connect with me
+### 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/an0nan4n7)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/an0nan4n7)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/an0nan4n7)
-[![Blog](https://img.shields.io/badge/-Blog-222222?style=flat&logo=ghost&logoColor=white)](http://m4lici0u5.com)
+- 🎯 **Focus:** Red Teaming | Malware Development | Offensive Research  
+- 🔥 Passionate about building tools, exploiting systems, and staying in the shadows  
+- 🧰 Building Active Directory Attack Labs & Automation Scripts  
+- 🎓 Learning: `eJPT`, `CRTO`, `OSCP`, `CRTP`, `OSED`  
+- 🧪 Upcoming Projects: *Payload Obfuscation*, *Initial Access Scripts*, *C2 Framework Experiments*  
+- 🌐 Blog: [m4lici0u5.com](http://m4lici0u5.com) | GitHub Pages (Coming soon)
+
+---
+
+### 🧾 Certifications & Goals
+
+| Completed 🎉 | In Progress 🔄 | Upcoming 🚀 |
+|-------------|----------------|-------------|
+| Google Cybersecurity Cert | C|CT – EC-Council | eJPT, CRTO, OSCP |
+| Python + Security Projects | AD Lab & C2 Projects | OSED, CRTP, OSWE |
+
+---
+
+### 🛠️ Tools & Tech
+
+```bash
+Languages:     Python, Bash, PowerShell, C
+OffSec Tools:  Metasploit, Cobalt Strike, Sliver, Covenant
+Infra:         AD, LDAP, SMB, Kerberos, RDP, AWS Pentest
+Tooling:       Nmap, BurpSuite, Wireshark, Impacket, BloodHound
