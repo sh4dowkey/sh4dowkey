@@ -1,34 +1,36 @@
 <h1 align="center">Hi there 👋, I'm Anant Kumar Pandey 👾</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Red+Teamer+%7C+Offensive+Security+Learner;Malware+Developer+in+Training;Building+Offensive+Labs+%26+Tools;Welcome+to+my+dark+repo+%F0%9F%94%AF" />
-</p>
+<p align="center"><em>VAPT Engineer | Red Team Learner | Cybersecurity Enthusiast</em></p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎯 **Focus:** Red Teaming | Malware Development | Offensive Research  
-- 🔥 Passionate about building tools, exploiting systems, and staying in the shadows  
-- 🧰 Building Active Directory Attack Labs & Automation Scripts  
-- 🎓 Learning: `eJPT`, `CRTO`, `OSCP`, `CRTP`, `OSED`  
-- 🧪 Upcoming Projects: *Payload Obfuscation*, *Initial Access Scripts*, *C2 Framework Experiments*  
-- 🌐 Blog: [m4lici0u5.com](http://m4lici0u5.com) | GitHub Pages (Coming soon)
+- 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
+- 🛠️ Practicing Offensive Security and Red Teaming techniques  
+- 🧪 Building hands-on labs and writing custom tools  
+- 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
+- 📝 Writing technical content at [m4lici0u5.com](http://m4lici0u5.com)
 
 ---
 
-### 🧾 Certifications & Goals
+### 🎓 Certifications & Learning Path
 
-| Completed 🎉 | In Progress 🔄 | Upcoming 🚀 |
-|-------------|----------------|-------------|
-| Google Cybersecurity Cert | C|CT – EC-Council | eJPT, CRTO, OSCP |
-| Python + Security Projects | AD Lab & C2 Projects | OSED, CRTP, OSWE |
+- ✅ **Google Cybersecurity Professional Certificate**
+- ✅ **Python for Pentesters**
+- 🔄 **Currently Preparing:**  
+  - EC-Council C|CT  
+  - TryHackMe & HackTheBox Challenges  
+- 🎯 **Next Goals:**  
+  - eJPT, CRTO, OSCP  
+  - CRTP, OSEP (Advanced Red Teaming)
 
 ---
 
-### 🛠️ Tools & Tech
+### ⚒️ Tools I Use
 
 ```bash
-Languages:     Python, Bash, PowerShell, C
-OffSec Tools:  Metasploit, Cobalt Strike, Sliver, Covenant
-Infra:         AD, LDAP, SMB, Kerberos, RDP, AWS Pentest
-Tooling:       Nmap, BurpSuite, Wireshark, Impacket, BloodHound
+Languages:     Python, Bash, PowerShell
+VAPT Stack:    Nmap, Burp Suite, Metasploit, Nikto, Nessus
+Red Teaming:   Impacket, BloodHound, CrackMapExec, Mimikatz
+Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
+Docs & Notes:  Obsidian, CherryTree, Markdown
