@@ -34,6 +34,15 @@
   <code>burpsuite</code> • <code>ad enumeration</code> • <code>reverse engineering</code> • <code>gdb</code> • <code>recon automation</code> • <code>python</code> • <code>go</code>
 </p>
 
+### 📊 GitHub Stats (via Metrics)
+
+<!-- GitHub Metrics SVG -->
+<img src="https://github.com/An0nAN4N7/An0nAN4N7/blob/main/github-metrics.svg" width="100%">
+
+<!-- If hosted via GitHub Actions, replace with: 
+<img src="https://raw.githubusercontent.com/An0nAN4N7/An0nAN4N7/main/github-metrics.svg" width="100%">
+-->
+
 ### ⚒️ Tools I Use
 
 ```bash
