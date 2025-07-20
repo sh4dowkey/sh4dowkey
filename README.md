@@ -69,6 +69,14 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 </p>
 
 
+<p align="center">
+  <a href="https://anantpandey.github.io/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="120" alt="Portfolio Icon" />
+  </a>
+  <br>
+  <sub><i>Click the image to visit my portfolio</i></sub>
+</p>
+
 
 ### ⚒️ Tools I Use
 
