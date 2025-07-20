@@ -1,36 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Anant Kumar Pandey 👾</h1>
-<p align="center"><em> Cybersecurity Enthusiast | An Engineering Student </em></p>
+<!-- Background Video -->
+<p align="center">
+  <video width="100%" autoplay loop muted>
+    <source src="https://yourdomain.com/hacker-bg.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<!-- Name -->
+<h1 align="center" style="color: #00FF00;">Anant Pandey</h1>
+<p align="center" style="color: #AAAAAA;"><i>Offensive Security | Builder | Quiet Hacker</i></p>
 
 ---
 
-### 🧠 About Me
+<!-- Skills (Minimal & Terminal Style) -->
+<p align="center" style="color: #AAAAAA;">
+  <code>burpsuite</code> • <code>ad enumeration</code> • <code>reverse engineering</code> • <code>gdb</code> • <code>recon automation</code> • <code>python</code> • <code>go</code>
+</p>
 
-- 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
-- 🛠️ Practicing Offensive Security and Red Teaming techniques  
-- 🧪 Building hands-on labs and writing custom tools  
-- 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
-<!-- - 📝 Writing technical content at [m4lici0u5.com](http://m4lici0u5.com) -->
-
----
-
-### 🎓 Certifications & Learning Path
-
-- ✅ **Google Cybersecurity Professional Certificate**
-- ✅ **Python for Pentesters**
-- 🔄 **Currently Preparing:**  
-  - EC-Council C|CT  
-  - TryHackMe & HackTheBox Challenges  
-- 🎯 **Next Goals:**  
-  - eJPT, CRTO, OSCP  
-  - CRTP, OSEP (Advanced Red Teaming)
-
----
-
-### ⚒️ Tools I Use
-
-```bash
-Languages:     Python, Bash, PowerShell
-VAPT Stack:    Nmap, Burp Suite, Metasploit, Nikto, Nessus
-Red Teaming:   Impacket, BloodHound, CrackMapExec, Mimikatz
-Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
-Docs & Notes:  Obsidian, CherryTree, Markdown
+<!-- Projects CTA -->
+<p align="center">
+  <a href="https://github.com/An0nAN4N7?tab=repositories" style="color:#00FF00;">View My Projects</a>
+</p>
