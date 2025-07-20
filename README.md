@@ -29,11 +29,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" height="40"/></a>
 
   <!-- Cybersecurity Tools -->
-  <a href="https://nmap.org/book/man.html" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-nmap-a-free-and-open-source-network-scanner-logo-filled-tal-revivo.png" title="Nmap" height="40"/></a>
-  <a href="https://portswigger.net/burp/documentation" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Burp_Suite_Logo.png" title="Burp Suite" height="40"/></a>
-  <a href="https://www.wireshark.org/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" title="Wireshark" height="40"/></a>
-  <a href="https://sourceware.org/gdb/current/onlinedocs/gdb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gnu-debugger-logo.svg" title="GDB" height="40"/></a>
-  <a href="https://www.kali.org/tools/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" title="Kali Linux" height="40"/></a>
+ [![Nmap](https://img.shields.io/badge/Nmap-5E5C5C?style=for-the-badge&logo=hackthebox&logoColor=white)](https://nmap.org/book/man.html)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE6F00?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp/documentation)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/docs/)
+[![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)](https://sourceware.org/gdb/current/onlinedocs/gdb/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEB?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/tools/)
+
 
   <!-- Environments & OS -->
   <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40"/></a>
