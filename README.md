@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></h3>
+<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></h2>
 
 
 ### 🧠 About Me
