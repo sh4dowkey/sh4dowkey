@@ -20,7 +20,7 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 
 
 
-## ⚒️ Tech Stack & Tools
+### ⚒️ Tech Stack & Tools
 <p align="left">
   <a href="https://www.python.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
   <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
@@ -60,13 +60,14 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 
 
 
-## 🖥️ My Portfolio
+### 🖥️ My Portfolio
 
-<p align="center">
+<p align="left">
   <a href="https://anantpandey.github.io/" target="_blank">
-    <img src="./portfolio-image.jpeg" width="80" alt="Portfolio"/>
+    <img src="./portfolio-image.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Portfolio"/>
   </a>
 </p>
+
 
 
 ### ⚒️ Tools I Use
