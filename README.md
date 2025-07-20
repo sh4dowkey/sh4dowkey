@@ -17,7 +17,7 @@
 
 ### 💻 Tech Skills
 
-<p align="left">
+<p align="center">
 
   <!-- Programming Languages -->
   <a href="https://www.python.org/doc/" target="_blank">
@@ -66,17 +66,20 @@
 
   <!-- Cybersecurity Tools -->
   <a href="https://nmap.org/book/man.html" target="_blank">
-    <img src="https://img.icons8.com/ios/50/26e07f/nmap.png" height="50" alt="nmap"/>
+    <img src="https://img.icons8.com/fluency/48/nmap.png" height="50" alt="nmap"/>
   </a>
+  
   <a href="https://portswigger.net/burp/documentation" target="_blank">
-    <img src="https://static.portswigger.net/burp/images/favicons/favicon-32x32.png" height="50" alt="burp suite"/>
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-hacker-cyber-security-flat-flat-juicy-fish.png" height="50" alt="burp suite"/>
   </a>
+
   <a href="https://www.wireshark.org/docs/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo_2020.svg" height="50" alt="wireshark"/>
+    <img src="https://img.icons8.com/color/48/wireshark.png" height="50" alt="wireshark"/>
   </a>
   <a href="https://sourceware.org/gdb/current/onlinedocs/gdb/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gnu-debugger-logo.svg" height="50" alt="gdb"/>
   </a>
+
 
 </p>
 
