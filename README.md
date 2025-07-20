@@ -59,11 +59,11 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 </p>
 
 
-## 🌐 My Portfolio
 
-<a href="https://anantpandey.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/4762/4762319.png" width="60" height="60" alt="My Portfolio Website" />
-</a>
+## My Portfolio
+
+[![My Portfolio](https://github.com/YOUR_USERNAME.png?size=80)](https://YOUR_USERNAME.github.io/)
+
 
 
 ### ⚒️ Tools I Use
