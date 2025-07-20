@@ -16,8 +16,8 @@
 - 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
 
 
-<!-- TECH STACK SECTION -->
-<h2 align="left">⚒️ Tech Stack & Tools</h2>
+
+## ⚒️ Tech Stack & Tools
 <p align="left">
 
   <!-- Programming Languages -->
@@ -44,15 +44,6 @@
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40"/></a>
 
 </p>
-
-<!-- Style to remove blue border -->
-<style>
-  a img {
-    border: none !important;
-    outline: none !important;
-    box-shadow: none !important;
-  }
-</style>
 
 
 
