@@ -3,7 +3,9 @@
 <p align="left">
   <img src="hacker-bg.gif" width="50%" />
 </p>
-<p align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></p>
+
+
+<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></h2>
 
 
 ### 🧠 About Me
