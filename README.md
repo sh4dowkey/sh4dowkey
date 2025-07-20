@@ -3,8 +3,7 @@
 <p align="left">
   <img src="hacker-bg.gif" width="50%" />
 </p>
-
-<p align="center" style="color: #AAAAAA;"><i>Offensive Security | Builder | Quiet Hacker</i></p>
+<p align="center"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></p>
 
 
 ### 🧠 About Me
