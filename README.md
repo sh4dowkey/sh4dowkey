@@ -60,10 +60,13 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 
 
 
-## My Portfolio
-<a href="https://anantpandey.github.io/" target="_blank">
-  <img src="https://your-chosen-url.png" width="60" alt="Hacker Portfolio"/>
-</a>
+## 🖥️ My Portfolio
+
+<p align="center">
+  <a href="https://anantpandey.github.io/" target="_blank">
+    <img src="./portfolio-image.jpeg" width="80" alt="Portfolio"/>
+  </a>
+</p>
 
 
 ### ⚒️ Tools I Use
