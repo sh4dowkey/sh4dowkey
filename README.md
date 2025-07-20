@@ -10,6 +10,8 @@
 
 ### 🧠 About Me
 
+I’m deeply passionate about cybersecurity, open-source, and software development. Over the past few years, I’ve explored everything from ethical hacking and penetration testing to building tools and contributing to security-focused projects. My journey began with curiosity and has grown into a serious commitment to mastering offensive security, automation, and open-source collaboration. My goal is to continuously learn, grow, and contribute meaningfully to the infosec and dev communities.😎
+
 - 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
 - 🛠️ Practicing Offensive Security and Red Teaming techniques  
 - 🧪 Building hands-on labs and writing custom tools  
@@ -20,8 +22,10 @@
 ## ⚒️ Tech Stack & Tools
 <p align="left">
   <a href="https://www.python.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></a>
   <a href="https://go.dev/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
   <a href="https://www.gnu.org/software/bash/manual/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/></a>
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
   <a href="https://gcc.gnu.org/onlinedocs/gcc/C-Extensions.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
@@ -52,15 +56,6 @@
 [![Pwntools](https://img.shields.io/badge/Pwntools-FD7E14?style=for-the-badge&logo=python&logoColor=white)](https://docs.pwntools.com/en/stable/)
 
 </p>
-
-
-
-
-
-<p align="center" style="color: #AAAAAA;">
-  <code>burpsuite</code> • <code>ad enumeration</code> • <code>reverse engineering</code> • <code>gdb</code> • <code>recon automation</code> • <code>python</code> • <code>go</code>
-</p>
-
 
 
 ### ⚒️ Tools I Use
