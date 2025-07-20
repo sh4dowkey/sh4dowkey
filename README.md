@@ -18,15 +18,68 @@
 ### 💻 Tech Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+
+  <!-- Programming Languages -->
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
+  </a>
+  <a href="https://go.dev/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/>
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  </a>
+
+  <!-- Tools & OS -->
+  <a href="https://www.linux.org/pages/download/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50"/>
+  </a>
+  <a href="https://www.docker.com/get-started/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  </a>
+  <a href="https://www.vim.org/docs.php" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  </a>
+  <a href="https://docs.github.com/en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  </a>
+
+  <!-- Databases -->
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  </a>
+
+  <!-- Cybersecurity Tools -->
+  <a href="https://nmap.org/book/man.html" target="_blank">
+    <img src="https://img.icons8.com/ios/50/26e07f/nmap.png" height="50" alt="nmap"/>
+  </a>
+  <a href="https://portswigger.net/burp/documentation" target="_blank">
+    <img src="https://static.portswigger.net/burp/images/favicons/favicon-32x32.png" height="50" alt="burp suite"/>
+  </a>
+  <a href="https://www.wireshark.org/docs/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo_2020.svg" height="50" alt="wireshark"/>
+  </a>
+  <a href="https://sourceware.org/gdb/current/onlinedocs/gdb/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gnu-debugger-logo.svg" height="50" alt="gdb"/>
+  </a>
+
 </p>
+
 
 
 
