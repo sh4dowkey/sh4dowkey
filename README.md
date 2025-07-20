@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm AN0NAN4N7 👾</h1>
+<h1 align="left">Hi there 👋, I'm AN0NAN4N7 👾</h1>
 
 <p align="left">
   <img src="hacker-bg.gif" width="50%" />
 </p>
-<p align="center"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></p>
+<p align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></p>
 
 
 ### 🧠 About Me
