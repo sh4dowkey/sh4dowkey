@@ -1,12 +1,10 @@
-<!-- Background GIF -->
-<p align="center">
-  <img src="hacker-bg.gif" width="100%" />
-</p>
-
-<!-- Name and Intro -->
 <h1 align="center" style="color: #00FF00;">Anant Pandey</h1>
 <p align="center" style="color: #AAAAAA;"><i>Offensive Security | Builder | Quiet Hacker</i></p>
 
+
+<p align="center">
+  <img src="hacker-bg.gif" width="50%" />
+</p>
 ---
 
 <p align="center" style="color: #AAAAAA;">
