@@ -32,6 +32,12 @@
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
+
+  <a href="https://nmap.org/book/man.html" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-nmap-a-free-and-open-source-network-scanner-logo-filled-tal-revivo.png" width="40" alt="Nmap"/></a>
+  <a href="https://portswigger.net/burp/documentation" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Burp_Suite_Logo.png" width="40" alt="Burp Suite"/></a>
+  <a href="https://www.wireshark.org/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" width="40" alt="Wireshark"/></a>
+  <a href="https://sourceware.org/gdb/current/onlinedocs/gdb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Gnu-debugger-logo.svg" width="40" alt="GDB"/></a>
+  <a href="https://www.kali.org/tools/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" width="40" alt="Kali Linux"/></a>
 </p>
 
 
