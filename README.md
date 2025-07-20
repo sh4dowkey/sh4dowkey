@@ -18,10 +18,6 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 - 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
 
 
-## 🌐 My Portfolio
-
-[![Visit My Website](https://img.shields.io/badge/-anantpandey.github.io-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anantpandey.github.io/)
-
 
 
 ## ⚒️ Tech Stack & Tools
@@ -61,6 +57,13 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 [![Pwntools](https://img.shields.io/badge/Pwntools-FD7E14?style=for-the-badge&logo=python&logoColor=white)](https://docs.pwntools.com/en/stable/)
 
 </p>
+
+
+## 🌐 My Portfolio
+
+<a href="https://anantpandey.github.io/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/4762/4762319.png" width="60" height="60" alt="My Portfolio Website" />
+</a>
 
 
 ### ⚒️ Tools I Use
