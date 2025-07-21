@@ -1,14 +1,14 @@
 <h1 align="left">Hi there 👋, I'm AN0NAN4N7 👾</h1> 
-![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
-
-
 
 <p align="left">
   <img src="hacker-bg.gif" width="50%" />
 </p>
 
 
-<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student  | Builder</em></h2>
+<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
+
+![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
+
 
 
 ### 🧠 About Me
