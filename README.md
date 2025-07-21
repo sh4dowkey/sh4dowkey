@@ -1,11 +1,17 @@
 <h1 align="left">Hi there 👋, I'm sh4dowkey 👾</h1> 
 
 <p align="left">
-  <img src="hacker-bg.gif" width="50%" />
+  <img src="./assets/bg.gif" width="50%" />
 </p>
 
 
 <h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
+
+<p align="left">
+  <img src="./moto.gif" width="200px" /><br/>
+  <em>“Break stuff, learn stuff, repeat.”</em>
+</p>
+
 
 
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
@@ -67,7 +73,7 @@ Always been curious about how things work — especially when it comes to breaki
 ### 🖥️ My Portfolio
 
 <a href="https://sh4dowkey.github.io">
-  <img src="./portfolio.gif" width="30%" />
+  <img src="./assets/portfolio.gif" width="30%" />
 </a>
 
 
