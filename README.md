@@ -81,6 +81,13 @@ Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
 Docs & Notes:  Obsidian, CherryTree, Markdown
 ```
 
+![Visitor Count](https://komarev.com/ghpvc/?username=An0nAN4N7&color=blue&style=flat-square)
+
+[![An0nAN4N7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=An0nAN4N7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=An0nAN4N7&theme=tokyonight)
+
+
 ![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
 
 
