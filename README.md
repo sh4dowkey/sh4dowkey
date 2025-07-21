@@ -5,7 +5,10 @@
 </p>
 
 
-<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
+<h3 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h3>
+<p align="left">
+  <img src="line.gif" width="100%" />
+</p>
 
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
