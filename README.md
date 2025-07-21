@@ -1,4 +1,7 @@
-<h1 align="left">Hi there 👋, I'm AN0NAN4N7 👾</h1>
+<h1 align="left">Hi there 👋, I'm AN0NAN4N7 👾</h1> 
+![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
+
+
 
 <p align="left">
   <img src="hacker-bg.gif" width="50%" />
@@ -81,9 +84,6 @@ Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
 Docs & Notes:  Obsidian, CherryTree, Markdown
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Open+Source+Contributor;Bug+Bounty+Hunter)](https://git.io/typing-svg)
-
-![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
-
 
 ![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
 
