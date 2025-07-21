@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-I’m deeply passionate about cybersecurity, open-source, and software development. Over the past few years, I’ve explored everything from ethical hacking and penetration testing to building tools and contributing to security-focused projects. My journey began with curiosity and has grown into a serious commitment to mastering offensive security, automation, and open-source collaboration. My goal is to continuously learn, grow, and contribute meaningfully to the infosec and dev communities.😎
+Always been curious about how things work — especially when it comes to breaking and building them. I'm into building, infosec, open-source, and coding tools that solve real problems. From ethical hacking and automation to contributing to security projects, I’m constantly learning and leveling up in the infosec space. 😎
 
 - 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
 - 🛠️ Practicing Offensive Security and Red Teaming techniques  
