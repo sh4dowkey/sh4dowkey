@@ -7,13 +7,6 @@
 
 <h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
 
-<p align="left">
-  <img src="./assets/moto.gif" width="200px" /><br/>
-  <em>“Break stuff, learn stuff, repeat.”</em>
-</p>
-
-
-
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
 
@@ -25,8 +18,17 @@ Always been curious about how things work — especially when it comes to breaki
 - 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
 - 🛠️ Practicing Offensive Security and Red Teaming techniques  
 - 🧪 Building hands-on labs and writing custom tools  
-- 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication  
+- 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication
+  
 
+<h3 align="center">💻 Motto / Developer Mood</h3>
+
+<p align="center">
+  <a href="https://sh4dowkey.github.io">
+    <img src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif" width="200px">
+  </a><br/>
+  <em>“Staring at code until it makes sense.”</em>
+</p>
 
 
 
