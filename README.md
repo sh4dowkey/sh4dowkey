@@ -8,7 +8,7 @@
 <h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
 
 <p align="left">
-  <img src="./moto.gif" width="200px" /><br/>
+  <img src="./assets/moto.gif" width="200px" /><br/>
   <em>“Break stuff, learn stuff, repeat.”</em>
 </p>
 
