@@ -74,17 +74,6 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 </p>
 
 
-### ⚒️ Tools I Use
-
-```bash
-Languages:     Python, Bash, PowerShell
-VAPT Stack:    Nmap, Burp Suite, Metasploit, Nikto, Nessus
-Red Teaming:   Impacket, BloodHound, CrackMapExec, Mimikatz
-Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
-Docs & Notes:  Obsidian, CherryTree, Markdown
-```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Open+Source+Contributor;Bug+Bounty+Hunter)](https://git.io/typing-svg)
-
 ![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
 
 
