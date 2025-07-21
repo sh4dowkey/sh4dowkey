@@ -66,7 +66,7 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 ### 🖥️ My Portfolio
 
 <p align="left">
-  <a href="https://an0nan4n7.github.io/" target="_blank">
+  <a href="https://sh4dowkey.github.io/" target="_blank">
     <img src="./portfolio image.png" width="100" alt="Portfolio Icon" />
   </a>
   <br>
@@ -74,11 +74,11 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 </p>
 
 
-![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
+![sh4dowkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0nAN4N7&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=An0nAN4N7&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sh4dowkey&theme=tokyonight)
