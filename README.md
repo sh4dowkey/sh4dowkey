@@ -74,7 +74,7 @@ I’m deeply passionate about cybersecurity, open-source, and software developme
 </p>
 
 
-![sh4dowkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
 
 
 
