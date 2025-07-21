@@ -84,8 +84,24 @@ Docs & Notes:  Obsidian, CherryTree, Markdown
 ![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&count_private=true&theme=gruvbox&hide=issues&custom_title=Anon%27s%20Stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=An0nAN4N7&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=An0nAN4N7&theme=tokyonight)
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=An0nAN4N7&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nAN4N7&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
