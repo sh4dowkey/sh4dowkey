@@ -5,10 +5,8 @@
 </p>
 
 
-<h3 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h3>
-<p align="left">
-  <img src="line.gif" width="100%" />
-</p>
+<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
+
 
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
@@ -70,7 +68,9 @@ Always been curious about how things work — especially when it comes to breaki
 
 <p align="left">
   <a href="https://sh4dowkey.github.io/" target="_blank">
-    <img src="./portfolio image.png" width="100" alt="Portfolio Icon" />
+    <p align="left">
+      <img src="portfolio.gif" width="30%" />
+    </p>
   </a>
   <br>
   <sub><i>Click the image to visit my portfolio</i></sub>
