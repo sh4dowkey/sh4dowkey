@@ -21,16 +21,6 @@ Always been curious about how things work — especially when it comes to breaki
 - 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication
   
 
-<h3 align="center">💻 Motto / Developer Mood</h3>
-
-<p align="center">
-  <a href="https://sh4dowkey.github.io">
-    <img src="./assets/moto.gif" width="200px">
-  </a><br/>
-  <em>“Staring at code until it makes sense.”</em>
-</p>
-
-
 
 ### ⚒️ Tech Stack & Tools
 <p align="left">
