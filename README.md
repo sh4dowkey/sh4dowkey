@@ -66,7 +66,9 @@ Always been curious about how things work — especially when it comes to breaki
 
 ### 🖥️ My Portfolio
 
-[![My Portfolio](./portfolio.gif)](https://sh4dowkey.github.io)
+<a href="https://sh4dowkey.github.io">
+  <img src="./portfolio.gif" width="30%" />
+</a>
 
 
 
