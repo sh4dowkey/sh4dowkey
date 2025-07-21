@@ -79,3 +79,7 @@ VAPT Stack:    Nmap, Burp Suite, Metasploit, Nikto, Nessus
 Red Teaming:   Impacket, BloodHound, CrackMapExec, Mimikatz
 Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
 Docs & Notes:  Obsidian, CherryTree, Markdown
+```
+
+![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
+
