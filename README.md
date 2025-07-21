@@ -66,15 +66,8 @@ Always been curious about how things work — especially when it comes to breaki
 
 ### 🖥️ My Portfolio
 
-<p align="left">
-  <a href="https://sh4dowkey.github.io/" target="_blank">
-    <p align="left">
-      <img src="portfolio.gif" width="30%" />
-    </p>
-  </a>
-  <br>
-  <sub><i>Click the image to visit my portfolio</i></sub>
-</p>
+[![My Portfolio](./portfolio.gif)](https://sh4dowkey.github.io)
+
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
