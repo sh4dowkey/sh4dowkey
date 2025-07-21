@@ -80,12 +80,9 @@ Red Teaming:   Impacket, BloodHound, CrackMapExec, Mimikatz
 Web Testing:   ffuf, dirsearch, sqlmap, ZAP, XSStrike
 Docs & Notes:  Obsidian, CherryTree, Markdown
 ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Open+Source+Contributor;Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=An0nAN4N7&color=blue&style=flat-square)
-
-[![An0nAN4N7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=An0nAN4N7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=An0nAN4N7&theme=tokyonight)
+![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
 
 ![Anon's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0nAN4N7&show_icons=true&theme=tokyonight)
