@@ -7,7 +7,7 @@ Just a little place to dump the chaos that comes with coding.
 
 ## When the bug you fixed reappears after deployment
 
-<img src="./assets/meme.gif" width="50%" />
+<img src="./assets/bg.gif" width="50%" />
 
   <img src="./assets/bg.gif" width="50%" />
 
