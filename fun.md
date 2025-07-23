@@ -9,6 +9,8 @@ Just a little place to dump the chaos that comes with coding.
 
 <img src="assets/coder-burn.gif" width="400">
 
+  <img src="./assets/bg.gif" width="50%" />
+
 ---
 
 ## The coding cycle
