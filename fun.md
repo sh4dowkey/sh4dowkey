@@ -7,7 +7,7 @@ Just a little place to dump the chaos that comes with coding.
 
 ## When the bug you fixed reappears after deployment
 
-<img src="assets/coder-burn.gif" width="400">
+<img src="./assets/coder-burn.gif" width="400">
 
 ---
 
