@@ -78,7 +78,7 @@ Looking for some dev chaos?
 Check out my [![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)
  — memes, code rants, and caffeine loops.
 
-- 🎭 Feeling chaotic? Check out the [**Developer Moodboard**][![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)— your daily dose of terminal therapy.
+- 🎭 Feeling chaotic? Check out the [![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)— your daily dose of terminal therapy.
 
 
 
