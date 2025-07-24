@@ -9,58 +9,28 @@ Just a little place to dump the chaos that comes with coding.
 
 <img src="./assets/meme.gif" width="50%" />
 
-  <img src="./assets/bg.gif" width="50%" />
-
 ---
 
 ## The coding cycle
 
 - Write code
 - It doesn't work
+- Forget how it works
 - Cry internally
 - Google the error
 - Stack Overflow saves the day
-- Push code
+- Push code and pray
 - Realize you pushed to `main` 😩
 
 ---
 
-## If you've made it this far...
-You either:
-- Need a break 🧠
-- Or you're *also* questioning your life choices 🔥
 
-
-
-# 👨‍💻 Hacker + Developer Moodboard
-
-> *"Code. Debug. Burn it all down. Repeat."*
-
-A little corner of chaos for those moments when the terminal fights back.
-
----
-
-## 🔥 When the code doesn’t work, and Stack Overflow is silent
-
-<img src="assets/coder-burn.gif" width="400">
-
----
-
-## 💻 Real Developer Workflow
-
-1. Clone a repo
-2. Break everything
-3. Hack a fix together
-4. Forget how it works
-5. Push and pray
-
----
-
-## 👀 Daily Hacker Mood
+## 👀 Daily Mood
 
 ```
 while (alive) {
     try {
+        code();
         hack();
     } catch (burnout) {
         coffee++;
@@ -69,6 +39,23 @@ while (alive) {
 ```
 
 ---
+
+## If you've made it this far...
+You either:
+- Need a break 🧠
+- Or you're *also* questioning your life choices...
+
+
+
+##  When the code doesn’t work, and Stack Overflow is silent
+
+> *"Code. Debug. Burn it all down. Repeat."*
+
+A little corner of chaos for those moments when the terminal fights back.
+
+---
+
+
 
 ## 💬 Thought of the Day
 
