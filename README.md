@@ -70,6 +70,17 @@ Always been curious about how things work — especially when it comes to breaki
 
 
 
+---
+
+### 🎭 Just for Fun
+
+Looking for some dev chaos?  
+Check out my [Developer Moodboard](./fun.md) — memes, code rants, and caffeine loops.
+
+---
+
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
 
 
