@@ -1,5 +1,5 @@
 
-# 🎉 Developer Moodboard
+#  Developer Moodboard
 
 Just a little place to dump the chaos that comes with coding.
 
