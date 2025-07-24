@@ -78,6 +78,7 @@ Always been curious about how things work — especially when it comes to breaki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh4dowkey&theme=tokyonight)
+[GitHub Streak](https://streak-stats.demolab.com?user=sh4dowkey&theme=tokyonight)
+
 
 
