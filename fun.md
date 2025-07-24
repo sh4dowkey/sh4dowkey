@@ -15,8 +15,11 @@ Just a little place to dump the chaos that comes with coding.
 
 
 ## When the bug you fixed reappears after deployment
+<p align="center">
 
 <img src="./assets/meme.gif" width="40%" />
+
+</p>
 
 ---
 
