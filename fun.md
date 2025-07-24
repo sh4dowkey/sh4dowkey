@@ -3,13 +3,14 @@
 
 Just a little place to dump the chaos that comes with coding.
 
-  __                    __              
-
-/ / ____ ___ / / ____ ___
-/ __ / __ / __ __ \/ __ / __ \/ __
-/ // / // / / / / / / // / // / / / / / /
-_,/_// // //_,/_// // //
-DEVELOPER MOODBOARD
+```
+       __                    __              
+  ____/ /___  ____ ___  ____/ /___  ____ ___ 
+ / __  / __ \/ __ `__ \/ __  / __ \/ __ `__ \
+/ /_/ / /_/ / / / / / / /_/ / /_/ / / / / / /
+\__,_/\____/_/ /_/ /_/\__,_/\____/_/ /_/ /_/ 
+        DEVELOPER MOODBOARD
+```
 
 
 ## When the bug you fixed reappears after deployment
