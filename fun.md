@@ -61,6 +61,4 @@ A little corner of chaos for those moments when the terminal fights back.
 
 > *“Why write clean code when you can write legendary bugs?”*
 
----
 
-_This page is hidden for a reason... but you're one of us now. 🔐_
