@@ -75,7 +75,10 @@ Always been curious about how things work — especially when it comes to breaki
 ### 🎭 Just for Fun
 
 Looking for some dev chaos?  
-Check out my [Developer Moodboard](./fun.md) — memes, code rants, and caffeine loops.
+Check out my 
+<a href="./fun.md">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=FF007F&center=false&vCenter=true&width=435&lines=💥+Enter+the+Dev+Chaos+Zone;💻+Explore+the+Fun.MD+Moodboard" alt="Typing SVG" />
+</a> — memes, code rants, and caffeine loops.
 
 ---
 
