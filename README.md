@@ -81,6 +81,16 @@ Always been curious about how things work — especially when it comes to breaki
 
 ---
 
+### 🎭 Just for Fun
+
+<p align="center">
+  <a href="./fun.md">
+    <img src="https://img.shields.io/badge/FUN_MOODBOARD-CLICK_HERE-FD479E?style=for-the-badge&logo=ghostery&logoColor=white" alt="Fun Moodboard Badge"/>
+  </a>
+</p>
+
+<p align="center"><i>memes, code rants, and caffeine loops await</i> ☕💻</p>
+
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=tokyonight)
