@@ -75,21 +75,11 @@ Always been curious about how things work — especially when it comes to breaki
 ### 🎭 Just for Fun
 
 
--  Feeling chaotic? Check out the [![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)  — memes, code rants, and caffeine loops.
+-  Feeling chaotic? Check out the [![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)    memes, code rants, and caffeine loops.
 
 
 
 ---
-
-### 🎭 Just for Fun
-
-<p align="center">
-  <a href="./fun.md">
-    <img src="https://img.shields.io/badge/FUN_MOODBOARD-CLICK_HERE-FD479E?style=for-the-badge&logo=ghostery&logoColor=white" alt="Fun Moodboard Badge"/>
-  </a>
-</p>
-
-<p align="center"><i>memes, code rants, and caffeine loops await</i> ☕💻</p>
 
 
 
