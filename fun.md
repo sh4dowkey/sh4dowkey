@@ -53,17 +53,6 @@ while (alive) {
 
 ---
 
-## 👨‍💻 Developer vs 🕵️ Hacker
-
-| Trait            | Developer                         | Hacker                            |
-|------------------|-----------------------------------|------------------------------------|
-| Goal             | Ship features                     | Break stuff                        |
-| Emotion          | Stress & deadlines 😓             | Curiosity & chaos 😈              |
-| Toolkit          | VS Code, Git, Jira                | Terminal, Nmap, Burp              |
-| Friday Plan      | Fix merge conflicts               | Exploit CVE-2023-🔥               |
-
----
-
 ## 💡 Developer Wisdom
 
 > “Weeks of coding can save you hours of planning.”  
