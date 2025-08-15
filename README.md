@@ -55,6 +55,8 @@ Find me at LinkedIn for more details about who I am 😄
 </p>
 
 
+---
+
 
 ### 🖥️ My Portfolio
 
@@ -67,6 +69,9 @@ Find me at LinkedIn for more details about who I am 😄
 ---
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight" alt="Top Langs" style="width:50%;">
+</p>
 
 
 
