@@ -14,6 +14,7 @@ I'm just a guy learning the ways around cybersecurity and coding some projects o
 
 Find me at LinkedIn for more details about who I am 😄
 
+---
 
 ### ⚒️ Tech Stack & Tools
 <p align="left">
