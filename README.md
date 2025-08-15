@@ -7,9 +7,9 @@
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
 
-<hr>
+<br>
+<br>
 
-<p align="center">
 ### 🧠 About Me
 
 
@@ -17,7 +17,6 @@ I'm just a guy learning the ways around cybersecurity and coding some projects o
 
 Find me at LinkedIn for more details about who I am 😄
   
-</p>
 
 ### ⚒️ Tech Stack & Tools
 <p align="left">
