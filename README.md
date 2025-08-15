@@ -65,15 +65,6 @@ Find me at LinkedIn for more details about who I am 😄
 
 ---
 
-### 🎭 Just for Fun
-
-
--  Feeling chaotic? Check out the [![Fun Zone](https://img.shields.io/badge/Fun_Moodboard-Click_Here-FD479E?style=for-the-badge&logo=ghostery&logoColor=white)](./fun.md)    memes, code rants, and caffeine loops.
-
-
-
----
-
 
 
 
