@@ -4,12 +4,13 @@
   <img src="./assets/bg.gif" width="50%" />
 </p>
 
+![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
+
 
 <hr>
 
 <p align="center">
 ### 🧠 About Me
-![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
 
 I'm just a guy learning the ways around cybersecurity and coding some projects on the way!
