@@ -4,11 +4,10 @@
   <img src="./assets/bg.gif" width="50%" />
 </p>
 
-<p align="center">
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
-</p>
 
 <hr>
+
 <p align center>
 ### 🧠 About Me
 
