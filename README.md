@@ -72,7 +72,7 @@ Find me at LinkedIn for more details about who I am 😄
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sh4dowkey&show_icons=true&theme=dracula" alt="GitHub stats" style="width:45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=dracula&hide=html" alt="Top Langs" style="width:45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=dracula&hide=html&hide=css" alt="Top Langs" style="width:45%;">
 </p>
 
 
