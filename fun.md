@@ -4,17 +4,9 @@
 Just a little place to dump the chaos that comes with coding.
 
 
-```
-       __                    __              
-  ____/ /___  ____ ___  ____/ /___  ____ ___ 
- / __  / __ \/ __ `__ \/ __  / __ \/ __ `__ \
-/ /_/ / /_/ / / / / / / /_/ / /_/ / / / / / /
-\__,_/\____/_/ /_/ /_/\__,_/\____/_/ /_/ /_/ 
-        DEVELOPER MOODBOARD
-```
 
-
-## When the bug you fixed reappears after deployment
+## When the same vuln is still there after three remediation cycles:
+“It’s basically part of the company culture now.” 🏢
 <p align="center">
 
 <img src="./assets/meme.gif" width="40%" />
@@ -53,39 +45,11 @@ while (alive) {
 
 ---
 
-## 💡 Developer Wisdom
-
-> “Weeks of coding can save you hours of planning.”  
-> “There is no Ctrl+Z in production.”  
-> “Your code is someone's legacy tomorrow. Scared yet?”  
-> “It worked on my machine.” – Every Dev Ever  
-
----
-
-
-## 🔥 Git Moments That Hurt
-
-```bash
-git reset --hard HEAD~1
-# goodbye, hours of work 😭
-
-git push --force
-# everything is on fire now
-```
-
-
 ## If you've made it this far...
 You either:
 - Need a break 🧠
 - Or you're *also* questioning your life choices...
 
-
-
-##  When the code doesn’t work, and Stack Overflow is silent
-
-> *"Code. Debug. Burn it all down. Repeat."*
-
-A little corner of chaos for those moments when the terminal fights back.
 
 ---
 
