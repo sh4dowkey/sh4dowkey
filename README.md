@@ -70,13 +70,13 @@ Find me at LinkedIn for more details about who I am 😄
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight" alt="Top Langs" style="width:40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight" alt="Top Langs" style="width:35%;">
 </p>
 
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight)
 
 
-<!-- [GitHub Streak](https://streak-stats.demolab.com?user=sh4dowkey&theme=tokyonight)
+[GitHub Streak](https://streak-stats.demolab.com?user=sh4dowkey&theme=tokyonight)
 -->
