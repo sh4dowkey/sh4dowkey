@@ -5,20 +5,15 @@
 </p>
 
 
-<h2 align="left"><em> Cybersecurity Enthusiast | An Engineering Student | Builder</em></h2>
-
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
 
 
 
 ### 🧠 About Me
 
-Always been curious about how things work — especially when it comes to breaking and building them. I'm into building, infosec, open-source, and coding tools that solve real problems. From ethical hacking and automation to contributing to security projects, I’m constantly learning and leveling up in the infosec space. 😎
+I'm just a guy learning the ways around cybersecurity and coding some projects on the way!
 
-- 🔐 Focused on **Vulnerability Assessment and Penetration Testing (VAPT)**
-- 🛠️ Practicing Offensive Security and Red Teaming techniques  
-- 🧪 Building hands-on labs and writing custom tools  
-- 🌍 Exploring Web Exploits, Active Directory Attacks, and CVE Replication
+Find me at LinkedIn for more details about who I am 😄
   
 
 
