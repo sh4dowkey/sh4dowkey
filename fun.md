@@ -15,17 +15,19 @@ Just a little place to dump the chaos that comes with coding.
 
 ---
 
-## The coding cycle
+##The Pentester Cycle 🕵️‍♂️💻
 
-- Write code
-- It doesn't work
-- Forget how it works
+- Get scope document
+- Scan targets
+- Find nothing at first
 - Cry internally
-- Google the error
-- Stack Overflow saves the day
-- Push code and pray
-- Realize you pushed to `main` 😩
-
+- Fuzz until something breaks
+- Land a low-severity bug
+- Chain it into domain admin
+- Celebrate quietly
+- Write report for 10x longer than the hack took
+- Client `fixes` it… but you exploit it again next week 😏
+  
 ---
 
 
