@@ -1,8 +1,6 @@
 
 #  Developer Moodboard
 
-Just a little place to dump the chaos that comes with coding.
-
 
 
 ## When the same vuln is still there after three remediation cycles:
