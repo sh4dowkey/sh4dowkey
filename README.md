@@ -69,7 +69,7 @@ Find me at LinkedIn for more details about who I am 😄
 ---
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4dowkey&layout=compact&theme=tokyonight" alt="Top Langs" style="width:35%;">
 </p>
 
