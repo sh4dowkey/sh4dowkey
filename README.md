@@ -1,21 +1,22 @@
-<h1 align="left">Hi there 👋, I'm sh4dowkey 👾</h1> 
+<h1 align="center">Hi there 👋, I'm sh4dowkey 👾</h1> 
 
-<p align="left">
+<p align="center">
   <img src="./assets/bg.gif" width="50%" />
 </p>
 
-
+<p align="center">
 ![Hacker Badge](https://img.shields.io/badge/-H4ck3r%20Mood%20Always-black?style=for-the-badge&logo=ghostery&logoColor=green)
+</p>
 
-
-
+<hr>
+<p align center>
 ### 🧠 About Me
 
 I'm just a guy learning the ways around cybersecurity and coding some projects on the way!
 
 Find me at LinkedIn for more details about who I am 😄
   
-
+</p>
 
 ### ⚒️ Tech Stack & Tools
 <p align="left">
