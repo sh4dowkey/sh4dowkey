@@ -51,7 +51,7 @@ Find me at LinkedIn for more details about who I am 😄
 [![IDA Free](https://img.shields.io/badge/IDA_Pro_Free-2D2D2D?style=for-the-badge&logoColor=white)](https://hex-rays.com/ida-free/)
 [![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-E64A19?style=for-the-badge&logo=windows&logoColor=white)](https://debugger.immunityinc.com/)
 [![Pwntools](https://img.shields.io/badge/Pwntools-FD7E14?style=for-the-badge&logo=python&logoColor=white)](https://docs.pwntools.com/en/stable/)
-[![IDA Free](https://img.shields.io/badge/More-2D2D2D?style=for-the-badge&logoColor=white)]()
+[![IDA Free](https://img.shields.io/badge/And_More....-2D2D2D?style=for-the-badge&logoColor=white)]()
 
 </p>
 
