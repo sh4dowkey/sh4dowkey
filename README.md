@@ -61,7 +61,7 @@ Find me at LinkedIn for more details about who I am 😄
 
 ### 🖥️ My Portfolio
 
-<a href="https://sh4dowkey.github.io">
+<a href="https://anantsec.netlify.app">
   <img src="./assets/portfolio.gif" width="30%" />
 </a>
 
